@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\colasenviar\colasenviar\bin\Debug\colasenviar.exe.config
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\colasenviar\colasenviar\bin\Debug\colasenviar.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\colasenviar\colasenviar\bin\Debug\colasenviar.pdb
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\colasenviar\colasenviar\obj\Debug\colasenviar.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\colasenviar\colasenviar\obj\Debug\colasenviar.exe
+C:\Users\USUARIO\Desktop\yacky\cursos\Trimestre 3\Estructuras logicas\colasenviar\colasenviar\obj\Debug\colasenviar.pdb
